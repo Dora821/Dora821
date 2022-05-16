@@ -2,7 +2,7 @@
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/doraxia/)](https://www.linkedin.com/in/doraxia/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dora821&count_private=true&show_icons=true&theme=radical)](https://github.com/Dora821/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dora821&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/Dora821/github-readme-stats)
 
 -  🔭 I’m currently a full stack engineer 
 - 🌱 I want to be a life-long learner and keep diving into full stack development
