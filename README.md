@@ -6,7 +6,7 @@
 
 -  🔭 I’m currently a full stack engineer 
 - 🌱 I want to be a life-long learner and keep diving into full stack development
-- 🤔 I’m looking for full time engineering job
+- 🤔 I’m looking for a full time engineering job
 - 🤩  I believe that technology automation makes life more productive and maximizes time utilization
 - 📍 Based in SF Bay Area, CA
 
