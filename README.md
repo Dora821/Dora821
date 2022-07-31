@@ -4,9 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dora821&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/Dora821/github-readme-stats)
 
--  🔭 I’m currently a full stack engineer 
-- 🌱 I want to be a life-long learner and keep diving into full stack development
-- 🤔 I’m looking for a full time engineering job
+-  🔭 I’m a software engineer
 - 🤩  I believe that technology automation makes life more productive and maximizes time utilization
 - 📍 Based in SF Bay Area, CA
 
